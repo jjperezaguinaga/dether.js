@@ -50,7 +50,7 @@ In detherJS you can instanciate 2 object:
 ## Instanciate_dether
 
 ```javascript
-import DetherJS from "dether.js";
+import DetherJS from "detherjs";
 
 const detherjs = new DetherJS({
   network: "mainnet" // can be kovan or ropsten
